@@ -35,7 +35,7 @@ See [ESOS-Lab/Mobibench](https://github.com/ESOS-Lab/Mobibench).
 
 Build shell version
 --------------------
-    # cd shell && make
+    # cd  Mobibench && make
 
 
 Usage (shell version)
